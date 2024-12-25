@@ -2,7 +2,7 @@
 Machine Learning Techniques with FLD, PCA, and Clustering for Image Data
 # Dimensionality Reduction and Unsupervised Learning
 
-This repository contains the implementation and analysis of **dimensionality reduction** and **unsupervised learning techniques**, as part of COSC 522 Machine Learning Project 3.
+This repository contains the implementation and analysis of **dimensionality reduction** and **unsupervised learning techniques**.
 
 ## Project Objectives
 
